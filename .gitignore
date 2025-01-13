@@ -48,3 +48,7 @@ nosetests.xml
 coverage.xml
 *.cover
 .hypothesis/ 
+
+# Building block output
+building-block/output/*
+!building-block/output/.gitkeep 
